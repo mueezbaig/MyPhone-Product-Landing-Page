@@ -1,7 +1,7 @@
 # MyPhone Website 📱
 > An elegant and efficient mobile phone showcase website.
 
-[Live Demo](#) <!-- Replace '#' with your live demo link -->
+[Live Demo](https://mueezbaig.github.io/MyPhone-Product-Landing-Page/)
 
 ## Introduction 🚀
 Welcome to MyPhone, where innovation meets elegance in every detail. Explore the latest iPhone15 model and its exceptional features meticulously designed to redefine the standards of smartphone excellence.
